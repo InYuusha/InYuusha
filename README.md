@@ -7,3 +7,8 @@
 <br></br>
 <a href="http://blog975-view.netlify.app" target="_blank"><img height="auto" width="100" src="https://github.com/InYuusha/InYuusha/blob/main/kisspng-diary-clip-art-planner-5ac0d03a6f6d55.9341007515225856584564.png"/></a>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=InYuusha&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=InYuusha&theme=tokyonight" />
+</p>
+
