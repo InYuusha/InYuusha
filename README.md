@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats:
 ---
-![InYuusha github stats](https://github-readme-stats.vercel.app/api?username=Kakise&theme=radical&show_icons=true&count_private=true)
+![InYuusha github stats](https://github-readme-stats.vercel.app/api?username=InYuusha&theme=radical&show_icons=true&count_private=true)
 
 ![InYuusha Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InYuusha&theme=solarized_dark)
 ![InYuusha Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InYuusha&theme=solarized_dark)
