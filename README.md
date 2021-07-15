@@ -14,4 +14,6 @@
 ![InYuusha Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InYuusha&theme=solarized_dark)
 ![InYuusha Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=InYuusha&theme=solarized_dark)
 ![InYuusha Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InYuusha&theme=solarized_dark)
+|[![trophy](https://github-profile-trophy.vercel.app/?username=InYuusha&margin-w=15&column=7&row=5)]()|
+|---|
 
